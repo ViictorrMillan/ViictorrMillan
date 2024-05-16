@@ -1,5 +1,12 @@
-# 💫 About Me:
-👨‍💻 Programming enthusiast and Software Engineering student. 🎓<br>👾 Currently, I am focused on learning Front-end and Java. 🚀<br>💼 I am open to internship proposals. 📚
+# 🐈‍⬛  Hi, I'm Victor:
+ <img align="right" width="100" height="100" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
+* 👨‍💻 Programming enthusiast and Software Engineering student. 🎓<br>
+* 👾 Currently, I am focused on learning Front-end and Java. 🚀<br> 
+* 💼 I am open to internship proposals. 📚 <br> <br>
+<details> 
+ <summary> More about me </summary>
+   
+ </details>
 
  
 ## 🌐 Socials:
