@@ -12,7 +12,7 @@
 * <details>
   <summary> More about me 🌟 </summary>
   <br>
-
+  <img align="right" width="120" height="120" src="https://s4.ezgif.com/tmp/ezgif-4-17d1e254af.gif">
   <p>🌐 Socials:</p>
   <p>
    
@@ -21,7 +21,7 @@
   </p>
   <br>
   
-  <img align="right" width="80" height="100" src="https://media.tenor.com/TBsXnJBWLncAAAAi/ghost-dance.gif">
+  <img align="right" width="120" height="120" src="https://media.tenor.com/TBsXnJBWLncAAAAi/ghost-dance.gif">
   <p>  🧑🏻‍🎓 Education:</p>
   <ul>
       <li> Currently pursuing a Bachelor's degree in Software Engineering (1/8)   </li>
@@ -30,7 +30,7 @@
   </ul>
   <br>
 
-  <img align="right" width="100" height="100" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
+  <img align="right" width="120" height="120" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
   <p>  🎮 Hobbies:</p>
   <ul>
       <li>Coding</li>
@@ -38,7 +38,7 @@
       <li>Gaming</li>
   </ul>
   <br>
-   <img align="right" width="100" height="100" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
+   <img align="right" width="120" height="120" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
    <p>  ❤️ I Love:</p>
   
   <ul>
