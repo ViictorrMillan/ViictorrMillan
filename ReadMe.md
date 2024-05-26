@@ -1,18 +1,22 @@
-# 🐈‍⬛  Hi, I'm Victor:
+<!-- Header-->
+<h1>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=3000&color=F7F7F7&vCenter=true&random=false&lines=+%F0%9F%90%88%E2%80%8D%E2%AC%9B++Hi%2C+I'm+Victor%3A" alt="Typing SVG" />
+</h1>
 <img align="right" width="120" height="120" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
 
-*  Programming enthusiast and Software Engineering student. 🧑🏻‍💻
-*  Currently, I am focused on learning Front-end and Java. 📚
-*  I am open to internship proposals. 💼
+<!-- About me -->
+*  Programming enthusiast and **Software Engineering student**. 🧑🏻‍💻
+*  Currently, I am focused on learning **Front-end** and **Java**. 📚
+*  I am open to **internship proposals**. 💼
 
 * <details>
-  <summary>More about me 🌟 </summary>
+  <summary> More about me 🌟 </summary>
   <br>
   <p>🌐 Socials:</p>
   <p>
     
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormillandev/)
-   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormillan_dev/)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormillandev/) <br>
+  - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormillan_dev/)
   </p>
   <br>
   <p>  🧑🏻‍🎓 Education:</p>
@@ -29,9 +33,9 @@
       <li>Gaming</li>
   </ul>
 </details>
-
-## 💻 My Tools and Technologies:
-
+ 
+<!-- Skills -->
+## 💻 My Tools and Technologies: 
 <table>
   <tr>
     <th  text-align: center;">Front-end</th>
@@ -59,13 +63,23 @@
     </td>
   </tr>
 </table>
-
-## 📊 GitHub Stats:
+ 
+ <!-- Status -->
+## 📊 GitHub Stats: 
 <div>
     <ahref="https://github.com/ViictorrMillan">
         <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ViictorrMillan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" />
         <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictorrMillan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
    </a>
 </div>
+
+ <!-- Snake -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViictorrMillan/ViictorrMillan/output/github-contribution-grid-snake.svg" />
+</div>
+
+
 
 ---
