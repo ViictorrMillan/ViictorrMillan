@@ -1,14 +1,37 @@
 # 🐈‍⬛  Hi, I'm Victor:
- <img align="right" width="120" height="120" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
+<img align="right" width="120" height="120" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
 
 * 👨‍💻 Programming enthusiast and Software Engineering student. 🎓
 * 👾 Currently, I am focused on learning Front-end and Java. 🚀
 * 💼 I am open to internship proposals. 📚 
-* <details>  <summary> More about me </summary>
-   ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormillandev/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormillan_dev/)
- </details>
+
+* <details>
+  <summary>More about me</summary>
+  <br>
+  <p>🌐 Socials:</p>
+  <p>
+   
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormillandev/)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormillan_dev/)
+  </p>
+  <br>
+  <p> 📚 Education:</p>
+  <ul>
+      <li>Bachelor in Software Engineering</li>
+      <li>Ongoing courses in Front-end development</li>
+  </ul>
+  <br>
+  <p> 🎯 Hobbies:</p>
+  <ul>
+      <li>Coding</li>
+      <li>Reading</li>
+      <li>Gaming</li>
+  </ul>
+</details>
+
+
+
+
 
 ## 💻 My Tools and Technologies:
 
