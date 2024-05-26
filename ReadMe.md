@@ -74,8 +74,6 @@
 </div>
 
  <!-- Snake -->
-
-![Snake animation](https://github.com/ViictorrMillan/ViictorrMillan/blob/manual-run-output/dist/only-svg/github-contribution-grid-snake.svg)
-
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViictorrMillan/ViictorrMillan/output/github-contribution-grid-snake.svg" />
 
 ---
