@@ -38,7 +38,7 @@
   <br>
    <p>  ❤️ I Love:</p>
   <ul>
-      <img align="right" width="120" height="120" src="">
+      <img align="right" width="120" height="120" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
       <li> Cats </li>
       <li> Coffe </li>
       <li> My girlfriend </li>
@@ -81,9 +81,10 @@
 <div>
     <ahref="https://github.com/ViictorrMillan">
         <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ViictorrMillan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" />
+        <img align="right" width="120" height="120" src="">
         <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictorrMillan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
    </a>
-      <img align="right" width="120" height="120" src="">
+
 </div>
      
  <!-- Snake -->
