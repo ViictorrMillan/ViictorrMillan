@@ -55,7 +55,7 @@
       <img alt="postgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original-wordmark.svg">
     </td>
     <td style="text-align: center;">
-      <img alt="Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original-wordmark.svg">
+      <img align="center" alt="Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original-wordmark.svg">
     </td>
     <td style="text-align: center;">
       <img alt="Photoshop" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg">
@@ -75,6 +75,7 @@
 
  <!-- Snake -->
 
+![Snake animation](https://github.com/ViictorrMillan/ViictorrMillan/blob/manual-run-output/dist/only-svg/github-contribution-grid-snake.svg)
 
 
 ---
