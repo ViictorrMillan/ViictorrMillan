@@ -72,8 +72,9 @@
         <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictorrMillan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
    </a>
 </div>
-
+     
+---
  <!-- Snake -->
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViictorrMillan/ViictorrMillan/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViictorrMillan/ViictorrMillan/output/github-contribution-grid-snake-dark.svg" />
 
 ---
