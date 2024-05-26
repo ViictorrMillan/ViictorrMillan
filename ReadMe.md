@@ -1,37 +1,34 @@
 # 🐈‍⬛  Hi, I'm Victor:
 <img align="right" width="120" height="120" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
 
-* 👨‍💻 Programming enthusiast and Software Engineering student. 🎓
-* 👾 Currently, I am focused on learning Front-end and Java. 🚀
-* 💼 I am open to internship proposals. 📚 
+*  Programming enthusiast and Software Engineering student. 🧑🏻‍💻
+*  Currently, I am focused on learning Front-end and Java. 📚
+*  I am open to internship proposals. 💼
 
 * <details>
-  <summary>More about me</summary>
+  <summary>More about me 🌟 </summary>
   <br>
   <p>🌐 Socials:</p>
   <p>
-   
+    
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormillandev/)
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormillan_dev/)
+   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormillan_dev/)
   </p>
   <br>
-  <p> 📚 Education:</p>
+  <p>  🧑🏻‍🎓 Education:</p>
   <ul>
-      <li>Bachelor in Software Engineering</li>
-      <li>Ongoing courses in Front-end development</li>
+      <li> Currently pursuing a Bachelor's degree in Software Engineering (1/8)   </li>
+      <li> Ongoing courses in Front-end development  </li>
+      <li> Ongoing English courses </li>
   </ul>
   <br>
-  <p> 🎯 Hobbies:</p>
+  <p>  🎮 Hobbies:</p>
   <ul>
       <li>Coding</li>
       <li>Reading</li>
       <li>Gaming</li>
   </ul>
 </details>
-
-
-
-
 
 ## 💻 My Tools and Technologies:
 
@@ -63,7 +60,6 @@
   </tr>
 </table>
 
-
 ## 📊 GitHub Stats:
 <div>
     <ahref="https://github.com/ViictorrMillan">
@@ -71,3 +67,5 @@
         <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictorrMillan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
    </a>
 </div>
+
+---
