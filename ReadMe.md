@@ -5,7 +5,7 @@
 <img align="right" width="120" height="120" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
 
 <!-- About me -->
-*  Programming enthusiast and **Software Engineering student**. 🧑🏻‍💻
+*  Programming enthusiast and **Software Engineering student**.🧑🏻‍💻
 *  Currently, I am focused on learning **Front-end** and **Java**. 📚
 *  I am open to **internship proposals**. 💼
 
