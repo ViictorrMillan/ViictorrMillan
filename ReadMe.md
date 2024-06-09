@@ -12,7 +12,7 @@
 * <details>
   <summary> More about me 🌟 </summary>
   <br>
-  <img align="right" width="120" height="120" src="https://s4.ezgif.com/tmp/ezgif-4-95bb2bd8a1.gif">
+  <img align="right" width="120" height="120" src="https://github.com/ViictorrMillan/ViictorrMillan/blob/main/icons/gif.gif">
   <p>🌐 Socials:</p>
   <p>
    
