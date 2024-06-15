@@ -1,17 +1,21 @@
 <!-- Header-->
-<h1>
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=3000&color=F7F7F7&vCenter=true&random=false&lines=+%F0%9F%90%88%E2%80%8D%E2%AC%9B++Hi%2C+I'm+Victor%3A" alt="Typing SVG" />
+<h1><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%91%BE+Welcome+to+my+GitHub!;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Where+ideas+become+code!+;%F0%9F%9B%A0%EF%B8%8F+Crafting+digital+solutions!;%F0%9F%90%88%E2%80%8D%E2%AC%9B+Coding+with+my+old+cat+by+my+side+;%F0%9F%8E%AE+Gamer+by+night%2C+coder+by+day!;%F0%9F%A7%A0+My+personality+type%3A+INTJ-T" alt="Typing SVG" />
 </h1>
 <img align="right" width="120" height="120" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
 
 <!-- About me -->
-* ### Programming enthusiast and **Software Engineering student**. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" /> 
-* ### Currently, I am focused on learning **Front-end** and **Java**. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" />
-* ###  I am open to **internship proposals**. 💼
-* <details><summary> More about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> </summary> <br>
+* ### Programming enthusiast and _Software Engineering student_. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" /> 
+* ### Currently, I am focused on learning _Front-end_ and _Java_. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" />
+* ###  I am open to _internship proposals_. 💼
+* <details><summary> About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> </summary> <br>
 
   <img align="right" width="120" height="120" src="https://github.com/ViictorrMillan/ViictorrMillan/blob/main/icons/gif.gif">
-  
+  <p> <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /> Tech Passion: </h3></p>
+  <ul>
+      <li> Hello, I'm Victor Millan, 21 years old, from São Paulo, Brazil. Since childhood, I've had a deep passion for technology. Discovering that I could turn this passion into a career has driven me to dedicate myself daily to working with something I love. </li>
+  </ul>
+  <br>  
+  <img align="right" width="120" height="120" src="https://media.tenor.com/RHuMko--4EQAAAAi/text-instagram.gif">
   <p><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Socials:</h3></p>
   <p>
     <a href="https://www.linkedin.com/in/victormillandev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="50" height="50"></a>
