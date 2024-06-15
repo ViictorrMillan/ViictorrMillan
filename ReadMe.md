@@ -5,24 +5,23 @@
 <img align="right" width="120" height="120" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
 
 <!-- About me -->
-*  Programming enthusiast and **Software Engineering student**.🧑🏻‍💻
-*  Currently, I am focused on learning **Front-end** and **Java**. 📚
-*  I am open to **internship proposals**. 💼
+* ### Programming enthusiast and **Software Engineering student**. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" /> 
+* ### Currently, I am focused on learning **Front-end** and **Java**. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" />
+* ###  I am open to **internship proposals**. 💼
+* <details><summary> More about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> </summary> <br>
 
-* <details>
-  <summary> More about me 🌟 </summary>
-  <br>
   <img align="right" width="120" height="120" src="https://github.com/ViictorrMillan/ViictorrMillan/blob/main/icons/gif.gif">
-  <p>🌐 Socials:</p>
+  
+  <p><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Socials:</h3></p>
   <p>
-   
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormillandev/) <br>
-  - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormillan_dev/)
+    <a href="https://www.linkedin.com/in/victormillandev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="50" height="50"></a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/victormillan_dev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="50" height="50"></a>
   </p>
   <br>
   
   <img align="right" width="120" height="120" src="https://media.tenor.com/TBsXnJBWLncAAAAi/ghost-dance.gif">
-  <p>  🧑🏻‍🎓 Education:</p>
+  <p> <h3>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="30" height="30" /> Education: </h3></p>
   <ul>
       <li> Currently pursuing a Bachelor's degree in Software Engineering (1/8)   </li>
       <li> Ongoing courses in Front-end development  </li>
@@ -31,7 +30,7 @@
   <br>
 
   <img align="right" width="120" height="120" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
-  <p>  🎮 Hobbies:</p>
+  <p> <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="30" height="30" /> Hobbies: </h3></p>
   <ul>
       <li>Coding</li>
       <li>Reading</li>
@@ -39,14 +38,15 @@
   </ul>
   <br>
    <img align="right" width="120" height="120" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
-   <p>  ❤️ I Love:</p>
+   <p>  <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="30" height="30" /> I Love: </h3></p>
   
   <ul>
       <li> Cats </li>
-      <li> Coffe </li>
+      <li> Coffee </li>
       <li> My girlfriend </li>
   </ul>
 </details>
+
  
 <!-- Skills -->
 ## 💻 My Tools and Technologies: 
@@ -92,7 +92,7 @@
      
  <!-- Snake -->
  
- ## 🔥 My Contributions: 
+ ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> My Contributions: 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViictorrMillan/ViictorrMillan/output/github-contribution-grid-snake-dark.svg" />
 
 ---
