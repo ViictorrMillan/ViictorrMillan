@@ -21,6 +21,8 @@
     <a href="https://www.linkedin.com/in/victormillandev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="50" height="50"></a>
     &nbsp;&nbsp;
     <a href="https://www.instagram.com/victormillan_dev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="50" height="50"></a>
+    <a href="https://www.instagram.com/victormillan_dev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="50" height="50"></a>
+    
   </p>
   <br>
   
@@ -53,36 +55,33 @@
 
  
 <!-- Skills -->
-## 💻 My Tools and Technologies: 
-<div>
-<table>
-  <tr>
-    <th  text-align: center;">Front-end</th>
-    <th  text-align: center;">Back-end</th>
-    <th  text-align: center;">Frameworks</th>
-    <th  text-align: center;">Others</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <img alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain-wordmark.svg">
-      <img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-plain-wordmark.svg">
-      <img alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg">
-    </td>
-    <td style="text-align: center;">
-      <img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg">
-      <img alt="C++" height="60" width="60" src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg">
-      <img alt="postgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original-wordmark.svg">
-    </td>
-    <td style="text-align: center;">
-      <img align="center" alt="Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original-wordmark.svg">
-    </td>
-    <td style="text-align: center;">
-      <img alt="Photoshop" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg">
-      <img alt="Vscode" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">
-    </td>
-  </tr>
-</table>
-</div>
+## 💻 Technologies I use in my day-to-day
+
+### Languages and Technologies
+<p>
+<img alt="HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+<img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
+<img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
+<img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
+<img alt="C++" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
+</p>
+
+### Frameworks and Libraries
+<p>
+  <img align="center" alt="Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg">
+  <img align="center" alt="PostgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  <img align="center" alt="MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
+</p>
+
+### Tools and Platforms
+<p>
+   <img align="center" alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
+   <img align="center" alt="Github" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg">
+   <img align="center" alt="Photoshop" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg">
+   <img align="center" alt="Vscode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
+  
+</p>
+
 
  <!-- Status -->
 ## 📊 GitHub Stats: 
