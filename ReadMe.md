@@ -18,10 +18,9 @@
   <img align="right" width="120" height="120" src="https://media.tenor.com/RHuMko--4EQAAAAi/text-instagram.gif">
   <p><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Socials:</h3></p>
   <p>
-    <a href="https://www.linkedin.com/in/victormillandev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="50" height="50"></a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/victormillan_dev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="50" height="50"></a>
-    <a href="https://www.instagram.com/victormillan_dev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="50" height="50"></a>
+    <a href="https://www.instagram.com/victormillan_dev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="60" height="60"></a>
+    <a href="https://www.linkedin.com/in/victormillandev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="60" height="60"></a>
+    <a href="mailto:victorhugomartinsmillan@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" width="60" height="60"></a>
     
   </p>
   <br>
