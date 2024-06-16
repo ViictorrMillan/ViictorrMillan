@@ -11,7 +11,7 @@
 * ### Currently, I am focused on learning _Front-end_ and _Java_. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" />
 * ### I am open to _internship proposals_. 💼
 
-<details>
+* <details>
   <summary>About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /></summary>
 
   <!-- Tech Passion -->
