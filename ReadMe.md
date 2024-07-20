@@ -1,5 +1,5 @@
 <!-- Header -->
-![I'm a Software Engineer (1)](https://github.com/ViictorrMillan/ViictorrMillan/blob/main/icons/Banner.gif?raw=true)
+![I'm a Software Engineer (1)](https://github.com/ViictorrMillan/ViictorrMillan/blob/main/icons/Banner.gif)
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%91%BE+Welcome+to+my+GitHub!;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Where+ideas+become+code!+;%F0%9F%9B%A0%EF%B8%8F+Crafting+digital+solutions!;%F0%9F%90%88%E2%80%8D%E2%AC%9B+Coding+with+my+old+cat+by+my+side+;%F0%9F%8E%AE+Gamer+by+night%2C+coder+by+day!;%F0%9F%A7%A0+My+personality+type%3A+INTJ-T"
     alt="Typing SVG" />
