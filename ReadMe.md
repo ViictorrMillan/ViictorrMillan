@@ -69,8 +69,8 @@
 ### 💼 Actively looking for _internship opportunities_
 ### ⚛️ Currently diving into React development
 ### 📚 My English level is B1, and I’m committed to improving it
-### 🌐 Explore [My Portfolio](https://link-do-seu-portfolio.com)
-### 📝 Check out [My Resume](https://link-do-seu-portfolio.com)
+### 🌐 Explore [My Portfolio](https://portifolio-one-2.vercel.app)
+### 📝 Check out [My Resume](https://onedrive.live.com/personal/210653bb4e5a46dc/_layouts/15/doc2.aspx?resid=d127f3a6-2f33-4d74-ad06-5f3c014af885&cid=210653bb4e5a46dc&ct=1740394943177&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=2b1bd4a6-9a13-45bc-be4e-1ed83d1c77af)
 ### 🚀 Currently developing [Project Name](link-to-project), focused on [brief description of the project]
 
 <!-- Status -->
