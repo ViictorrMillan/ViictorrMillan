@@ -53,15 +53,9 @@
     <td align="center" style="font-size: 16px;">
       <strong>🌐 Redes Sociais</strong>
       <div style="display: flex; flex-direction: column; gap: 20px; justify-content: center;">
-        <a href="https://www.linkedin.com" target="_blank">
-          <img alt="LinkedIn" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
-        </a>
-        <a href="https://github.com" target="_blank">
-          <img alt="GitHub" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-        </a>
-        <a href="https://twitter.com" target="_blank">
-          <img alt="Twitter" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg">
-        </a>
+        <a href="https://www.instagram.com/victormillan_dev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="40" height="50"></a>
+        <a href="https://www.linkedin.com/in/victormillandev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="40" height="50"></a>
+        <a href="mailto:victorhugomartinsmillan@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="40" height="50"></a>
       </div>
     </td>
   </tr>
@@ -69,6 +63,7 @@
 
 
 <!-- About Me --> 
+
 ### 👋 Hey, I'm Victor Millan, 22 years old, from São Paulo, Brazil
 ### 🎓 Currently pursuing Software Engineering (3/8)
 ### 💼 Actively looking for _internship opportunities_
@@ -76,11 +71,7 @@
 ### 📚 My English level is B1, and I’m committed to improving it
 ### 🌐 Explore [My Portfolio](https://link-do-seu-portfolio.com)
 ### 📝 Check out [My Resume](https://link-do-seu-portfolio.com)
-### 🌱 Explore [My Projects and Open Source Contributions](https://link-do-seu-portfolio.com)
 ### 🚀 Currently developing [Project Name](link-to-project), focused on [brief description of the project]
-
-
-
 
 <!-- Status -->
 ## 📊 GitHub Stats: 
