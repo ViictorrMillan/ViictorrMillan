@@ -52,7 +52,7 @@
   <tr>
     <td align="center" style="font-size: 16px;">
       <strong>🌐 Redes Sociais</strong>
-      <div style="display: flex; flex-direction: column; gap: 20px; justify-content: center;">
+      <div style="display: flex; flex-direction: column; gap: 40px; justify-content: center;">
         <a href="https://www.instagram.com/victormillan_dev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="40" height="50"></a>
         <a href="https://www.linkedin.com/in/victormillandev/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="40" height="50"></a>
         <a href="mailto:victorhugomartinsmillan@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="40" height="50"></a>
@@ -64,14 +64,14 @@
 
 <!-- About Me --> 
 
-### 👋 Hey, I'm Victor Millan, 22 years old, from São Paulo, Brazil
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hey, I'm Victor Millan, 22 years old, from São Paulo, Brazil
 ### 🎓 Currently pursuing Software Engineering (3/8)
 ### 💼 Actively looking for _internship opportunities_
 ### ⚛️ Currently diving into React development
 ### 📚 My English level is B1, and I’m committed to improving it
 ### 🌐 Explore [My Portfolio](https://portifolio-one-2.vercel.app)
 ### 📝 Check out [My Resume](https://1drv.ms/w/c/210653bb4e5a46dc/EabzJ9EzL3RNrQZfPAFK-IUBt0WcnFt_LaLEQNs1M84RAA?e=Bia3Ie)
-### 🚀 Currently developing [Portfolio - 2](https://github.com/ViictorrMillan/Portfolio-VictorMillan)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Currently developing [Portfolio - 2](https://github.com/ViictorrMillan/Portfolio-VictorMillan)
 
 <!-- Status -->
 ## 📊 GitHub Stats: 
