@@ -7,7 +7,7 @@
 <!-- stack -->
 <table align="right">
   <tr>
-    <td align="center">
+    <td align="center" style="font-size: 16px;">
       <strong>🎨 Front-end</strong>
       <div style="display: flex; flex-direction: column; gap: 20px; justify-content: center;">
         <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +19,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="font-size: 16px;">
       <strong>⚙️ Back-end</strong>
       <div style="display: flex; flex-direction: column; gap: 20px; justify-content: center;">
         <img alt="Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -30,7 +30,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="font-size: 16px;">
       <strong>🛠 Ferramentas de Desenvolvimento</strong>
       <div style="display: flex; flex-direction: column; gap: 20px; justify-content: center;">
         <img alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -40,7 +40,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="font-size: 16px;">
       <strong>🎨 Ferramentas de Design</strong>
       <div style="display: flex; flex-direction: column; gap: 20px; justify-content: center;">
         <img alt="Figma" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
@@ -48,15 +48,38 @@
       </div>
     </td>
   </tr>
+  <!-- Nova Seção: Redes Sociais -->
+  <tr>
+    <td align="center" style="font-size: 16px;">
+      <strong>🌐 Redes Sociais</strong>
+      <div style="display: flex; flex-direction: column; gap: 20px; justify-content: center;">
+        <a href="https://www.linkedin.com" target="_blank">
+          <img alt="LinkedIn" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+        </a>
+        <a href="https://github.com" target="_blank">
+          <img alt="GitHub" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+        </a>
+        <a href="https://twitter.com" target="_blank">
+          <img alt="Twitter" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg">
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
+
 <!-- About Me --> 
-### 🎓 Currently studying Software Engineering (3/8) 
-### 💼 Open to _internship opportunities_ 
-### 🚀 Currently diving into React 
-### 📚 My English level is B1, and I'm always improving it 
-### 🌟 Check out [My Portfolio](https://link-do-seu-portfolio.com)!
-### 🌟 Check out [My curiculo](https://link-do-seu-portfolio.com)!
+### 👋 Hey, I'm Victor Millan, 22 years old, from São Paulo, Brazil
+### 🎓 Currently pursuing Software Engineering (3/8)
+### 💼 Actively looking for _internship opportunities_
+### ⚛️ Currently diving into React development
+### 📚 My English level is B1, and I’m committed to improving it
+### 🌐 Explore [My Portfolio](https://link-do-seu-portfolio.com)
+### 📝 Check out [My Resume](https://link-do-seu-portfolio.com)
+### 🌱 Explore [My Projects and Open Source Contributions](https://link-do-seu-portfolio.com)
+### 🚀 Currently developing [Project Name](link-to-project), focused on [brief description of the project]
+
+
 
 
 <!-- Status -->
