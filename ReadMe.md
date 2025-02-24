@@ -71,7 +71,7 @@
 ### 📚 My English level is B1, and I’m committed to improving it
 ### 🌐 Explore [My Portfolio](https://portifolio-one-2.vercel.app)
 ### 📝 Check out [My Resume](https://1drv.ms/w/c/210653bb4e5a46dc/EabzJ9EzL3RNrQZfPAFK-IUBt0WcnFt_LaLEQNs1M84RAA?e=Bia3Ie)
-### 🚀 Currently developing [Project Name](link-to-project), focused on [brief description of the project]
+### 🚀 Currently developing [Portfolio - 2](https://github.com/ViictorrMillan/Portfolio-VictorMillan)
 
 <!-- Status -->
 ## 📊 GitHub Stats: 
