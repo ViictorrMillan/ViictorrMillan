@@ -65,8 +65,8 @@
 
 <!-- About Me --> 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hey, I'm Victor Millan, 22 years old, from São Paulo, Brazil
-### 🎓 Currently pursuing Software Engineering (3/8)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hey, I'm Victor Millan, 23 years old, from São Paulo, Brazil
+### 🎓 Currently pursuing Software Engineering (5/8)
 ### 💼 Actively looking for _internship opportunities_
 ### ⚛️ Currently diving into React development
 ### 📚 My English level is B1, and I’m committed to improving it
