@@ -70,9 +70,9 @@
 ### 💼 Actively looking for _internship opportunities_
 ### ⚛️ Currently diving into React development
 ### 📚 My English level is B1, and I’m committed to improving it
-### 🌐 Explore [My Portfolio](https://portifolio-one-2.vercel.app)
+### 🌐 Explore [My Portfolio](https://portiflio-ux-ui.vercel.app/)
 ### 📝 Check out [My Resume](https://1drv.ms/w/c/210653bb4e5a46dc/EabzJ9EzL3RNrQZfPAFK-IUBt0WcnFt_LaLEQNs1M84RAA?e=Bia3Ie)
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Currently developing [Portfolio - 2](https://portifolio-ruddy-mu.vercel.app)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Currently developing [Link ]()
 
 <!-- Status -->
 ## 📊 GitHub Stats: 
