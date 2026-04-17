@@ -9,14 +9,9 @@
 
 ## 🧰 Tech Stack
 
-**Front-end**  
-![Front-end](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)
-
-**Back-end & Databases**  
-![Back-end and Databases](https://skillicons.dev/icons?i=java,cpp,postgres,mysql)
-
-**Tools & Design**  
-![Tools and Design](https://skillicons.dev/icons?i=vscode,git,github,figma,ps)
+| Front-end | Back-end & Databases | Tools & Design |
+|---|---|---|
+| ![Front-end](https://skillicons.dev/icons?i=html,css,js,bootstrap,react) | ![Back-end and Databases](https://skillicons.dev/icons?i=java,cpp,postgres,mysql) | ![Tools and Design](https://skillicons.dev/icons?i=vscode,git,github,figma,ps) |
 
 ## 👋 About Me
 - I'm **Victor Millan**, from São Paulo, Brazil.
