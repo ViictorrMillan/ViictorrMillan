@@ -9,30 +9,22 @@
 
 ## 🧰 Tech Stack & About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <strong>Front-end</strong><br>
-      <img alt="Front-end" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" /><br><br>
+<p align="right">
+  <strong>Front-end</strong><br>
+  <img alt="Front-end" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" /><br><br>
+  <strong>Back-end & Databases</strong><br>
+  <img alt="Back-end and Databases" src="https://skillicons.dev/icons?i=java,cpp,postgres,mysql" /><br><br>
+  <strong>Tools & Design</strong><br>
+  <img alt="Tools and Design" src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps" />
+</p>
 
-      <strong>Back-end & Databases</strong><br>
-      <img alt="Back-end and Databases" src="https://skillicons.dev/icons?i=java,cpp,postgres,mysql" /><br><br>
+- I'm **Victor Millan**, from São Paulo, Brazil.
+- 🎓 Software Engineering student.
+- 💼 Looking for internship opportunities in development.
+- ⚛️ Focused on React and modern web development.
+- 📚 English level: B1 (improving continuously).
 
-      <strong>Tools & Design</strong><br>
-      <img alt="Tools and Design" src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps" />
-    </td>
-    <td valign="top" width="40%">
-      <strong>👋 About Me</strong>
-      <ul>
-        <li>I'm <strong>Victor Millan</strong>, from São Paulo, Brazil.</li>
-        <li>🎓 Software Engineering student.</li>
-        <li>💼 Looking for internship opportunities in development.</li>
-        <li>⚛️ Focused on React and modern web development.</li>
-        <li>📚 English level: B1 (improving continuously).</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<br clear="right" />
 
 ## 🌐 Links
 <p>
