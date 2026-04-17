@@ -7,25 +7,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=700&height=60&lines=%F0%9F%91%BE+Welcome+to+my+GitHub!;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Where+ideas+become+code!;%F0%9F%9B%A0%EF%B8%8F+Crafting+digital+solutions!;%F0%9F%A7%A0+INTJ-T" alt="Typing intro" />
 </h1>
 
-## 🧰 Tech Stack & About Me
+## 👋 About Me & 🧰 Tech Stack
 
 <table>
   <tr>
-    <td valign="top" width="40%">
+    <td valign="top" width="55%">
+      <strong>About Me</strong><br><br>
+      • I'm <strong>Victor Millan</strong>, from São Paulo, Brazil.<br>
+      • 🎓 Software Engineering student.<br>
+      • 💼 Looking for internship opportunities in development.<br>
+      • ⚛️ Focused on React and modern web development.<br>
+      • 📚 English level: B1 (improving continuously).
+    </td>
+    <td valign="top" width="45%">
       <strong>Front-end</strong><br>
       <img alt="Front-end" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" /><br><br>
       <strong>Back-end & Databases</strong><br>
       <img alt="Back-end and Databases" src="https://skillicons.dev/icons?i=java,cpp,postgres,mysql" /><br><br>
       <strong>Tools & Design</strong><br>
       <img alt="Tools and Design" src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps" />
-    </td>
-    <td valign="top" width="60%">
-      <strong>👋 About Me</strong><br><br>
-      • I'm <strong>Victor Millan</strong>, from São Paulo, Brazil.<br>
-      • 🎓 Software Engineering student.<br>
-      • 💼 Looking for internship opportunities in development.<br>
-      • ⚛️ Focused on React and modern web development.<br>
-      • 📚 English level: B1 (improving continuously).
     </td>
   </tr>
 </table>
