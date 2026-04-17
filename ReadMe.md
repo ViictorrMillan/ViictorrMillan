@@ -27,11 +27,11 @@
 
 ## 🌐 Links
 <p>
-  <a href="https://portiflio-ux-ui.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1Hv2YGl8sZK8nyRZKN4uLJc7zRKYPyjhT/view?usp=drive_link" target="_blank">📝 Resume</a> •
-  <a href="https://www.linkedin.com/in/victormillandev/" target="_blank">LinkedIn</a> •
-  <a href="https://www.instagram.com/victormillan_dev/" target="_blank">Instagram</a> •
-  <a href="mailto:victorhugomartinsmillan@gmail.com">Email</a>
+  <a href="https://portiflio-ux-ui.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1Hv2YGl8sZK8nyRZKN4uLJc7zRKYPyjhT/view?usp=drive_link" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/victormillandev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/victormillan_dev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:victorhugomartinsmillan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## 📊 GitHub Stats
