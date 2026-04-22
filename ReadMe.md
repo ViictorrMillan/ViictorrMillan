@@ -8,10 +8,10 @@
   <a href="https://www.instagram.com/victormillan_dev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
 </p>
 <p align="center">
-<img alt="Front-end" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />  &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Back-end and Databases" src="https://skillicons.dev/icons?i=java,cpp,postgres,mysql" />   &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Tools and Design" src="https://skillicons.dev/icons?i=vscode,git,github" />    &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Tools and Design" src="https://skillicons.dev/icons?i=figma,ps" />
+<img height="40em" alt="Front-end" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />  &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40em" alt="Back-end and Databases" src="https://skillicons.dev/icons?i=java,cpp,postgres,mysql" />   &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40em"alt="Tools and Design" src="https://skillicons.dev/icons?i=vscode,git,github" />    &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40em" alt="Tools and Design" src="https://skillicons.dev/icons?i=figma,ps" />
 </p>
 
 <h4 align="center">
