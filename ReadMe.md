@@ -7,8 +7,8 @@
   <a href="https://wa.me/5511982688488" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
 </p>
 <p align="center">
-<img height="40em" alt="Front-end" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />  &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40em" alt="Back-end and Databases" src="https://skillicons.dev/icons?i=java,cpp,postgres,mysql" />   &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40em" alt="Front-end" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />  &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40em" alt="Back-end and Databases" src="https://skillicons.dev/icons?i=java,cpp,cs,postgres,mysql,sqlite" />   &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40em"alt="Tools and Design" src="https://skillicons.dev/icons?i=vscode,git,github" />    &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40em" alt="Tools and Design" src="https://skillicons.dev/icons?i=figma,ps" />
 </p>
