@@ -13,11 +13,11 @@
 <img height="40em" alt="Tools and Design" src="https://skillicons.dev/icons?i=figma,ps" />
 </p>
 
-<h4 align="center">
+<h3 align="center">
   🎓 Software Engineering student (5/8) <br>
   💼 Internship-focused developer <br> 
   📚 English: B1  
-</h4>
+</h3>
 
 ---
 
