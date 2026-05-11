@@ -14,13 +14,11 @@
 </p>
 
 <h4 align="center">
-  🎓 Software Engineering student (5/8)  &nbsp; &nbsp; &nbsp; &nbsp; 💼 Internship-focused developer  &nbsp; &nbsp; &nbsp; &nbsp; 📚 English: B1  
+  🎓 Software Engineering student (5/8) <br>
+  💼 Internship-focused developer <br> 
+  📚 English: B1  
 </h4>
 
 ---
-<p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViictorrMillan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false"/> 
-  &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictorrMillan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+
 
